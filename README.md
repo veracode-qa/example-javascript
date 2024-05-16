@@ -5,7 +5,7 @@ test21
 ## Try me!12
 
 ```sss
-brew tap srcclr/srcclr
+brew tap srcclr/srcclrss
 brew install srcclr
 srcclr activate
 srcclr scan --url https://github.com/srcclr/example-javascript
